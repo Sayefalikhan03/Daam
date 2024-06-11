@@ -26,3 +26,5 @@ To run this project on Google Colab, follow these steps:
    # Step 2: Install Required Packages
    !pip install torch torchvision ftfy matplotlib
    !pip install diffusers==0.16.1 transformers==4.27.4 accelerate==0.18.0 jax jaxlib huggingface_hub
+
+colab notebook link: https://colab.research.google.com/drive/1aLt2EAWQZmyKUd3L3esHFRnXXLxYbHSz?usp=sharing
